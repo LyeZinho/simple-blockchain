@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Block genesis = new("satoshi", "sends 10btc to paul", 0);
+            Block genesis = new("satoshi", "sends 60btc to paul", 0);
             Console.WriteLine("genesis: "
                 + " / " + genesis.Data.Author
                 + " / " + genesis.Data.Content
