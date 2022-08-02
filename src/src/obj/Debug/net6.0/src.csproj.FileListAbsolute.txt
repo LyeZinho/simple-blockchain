@@ -1,0 +1,15 @@
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\bin\Debug\net6.0\src.exe
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\bin\Debug\net6.0\src.deps.json
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\bin\Debug\net6.0\src.runtimeconfig.json
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\bin\Debug\net6.0\src.dll
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\bin\Debug\net6.0\src.pdb
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\obj\Debug\net6.0\src.csproj.AssemblyReference.cache
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\obj\Debug\net6.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\obj\Debug\net6.0\src.AssemblyInfoInputs.cache
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\obj\Debug\net6.0\src.AssemblyInfo.cs
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\obj\Debug\net6.0\src.csproj.CoreCompileInputs.cache
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\obj\Debug\net6.0\src.dll
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\obj\Debug\net6.0\refint\src.dll
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\obj\Debug\net6.0\src.pdb
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\obj\Debug\net6.0\src.genruntimeconfig.cache
+C:\Users\pkgam\Desktop\Nova pasta (5)\simple-blockchain\src\src\obj\Debug\net6.0\ref\src.dll
